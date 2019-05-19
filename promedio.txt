@@ -1,0 +1,2 @@
+El nombre del estudiante es: Stiven
+Ha obtenido un promedio de :4
